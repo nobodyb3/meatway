@@ -1,0 +1,169 @@
+#body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(./assets/background\ 2.jpg);
+   background-repeat: no-repeat;
+   background-size: 1400px;
+   
+  
+  } 
+  
+   /* navbar */
+
+.logo{
+    margin-right: 100px;
+}
+
+ 
+  
+  #links{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 50px;
+    
+    }
+   
+  .button :hover{
+ background-color: rgb(7, 255, 222) ;
+}
+.button{
+    
+    display: inline;
+    margin: 40px;
+   
+
+   }
+   .navbar{
+    margin-left: 50px;
+    background-color: rgba(86, 63, 129, 0);
+    margin-right: 50px;
+   
+ 
+     
+   }
+ 
+
+/* products page */
+.mainproduct{
+    display: flex;
+    justify-content: center;
+}
+.div1{
+   height: 300px;
+   width: 300px;
+   background-image: url(./assets/cammel.jpg);
+   border: solid rgb(0, 0, 0) 3px;
+   margin-left: 50px;
+   margin-right: 50px;
+
+}
+
+.div2{
+   height: 300px;
+   width: 300px;
+   background-image: url(./assets/goat.jpg);
+   border: solid rgb(0, 0, 0) 3px;
+   margin-left: 50px;
+   margin-right: 50px;
+
+}
+
+.div3{
+   height: 300px;
+   width: 300px;
+   background-image: url(./assets/CompressJPEG.Online_img\(300x300\)\(1\).jpg);
+   border: solid rgba(0, 0, 0, 0.884) 3px;
+   margin-left: 50px;
+   margin-right: 50px;
+
+}
+
+.div4{
+    height: 300px;
+    width: 300px;
+    background-image: url(.//assets/CompressJPEG.Online_img\(300x300\).jpg);
+    background-repeat: no-repeat;
+    
+    border: solid rgb(0, 0, 0) 3px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#d1{
+   text-align: center;
+    margin-top: 250px;
+     background-color: rgb(240, 232, 232);
+    width:  75px;
+    height:  30px;
+    margin-left: 80px;
+    border-radius: 0px 20px 0px 20px;
+    
+
+}
+/* sales table */
+#importheading{
+    text-align:center ;
+}
+.table{
+    background-color: beige;
+    text-align: center;
+    margin-left: 300px;
+    padding: 40px;
+    font-size: 25px;
+    word-spacing: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+    
+    
+}
+.thead{
+    padding-right: 10px;
+    background-color: aqua;
+}
+/* main home page */
+.mainbody{
+    margin-top: 100px;
+    margin-left: 20px;
+    font-size: 50px;
+    background-color: rgba(39, 161, 15, 0);
+    
+    ;
+}
+#i{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(197, 19, 19);
+    
+}
+.video{
+    display: flex;
+    justify-content: center;
+    margin-left: 700px;
+    margin: 20px;
+  
+}
+.video2{
+    margin: 10px;
+}
+/* contact page */
+.contactpg{
+    background-color: rgba(240, 34, 19, 0.904);
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 200px 400px 200px 400px;
+    margin: 100px;
+}
+#conthead{
+    margin-left: 50px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* order page */
+.order1{
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.562);
+    border-radius: 100px;
+    padding: 100px;
+    margin: 100px 200px 0px 200px;
+   
+    
+    
+}
